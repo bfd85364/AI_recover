@@ -1,2 +1,2 @@
 # AI_recover
-아 씨빨 
+MNIST code 복구
